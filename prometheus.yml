@@ -1,5 +1,5 @@
 ---
-name: prometheus
+name: prometheus-ws
 
 director_uuid: ((director_uuid))
 
