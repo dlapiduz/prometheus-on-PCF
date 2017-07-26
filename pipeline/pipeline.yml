@@ -127,6 +127,8 @@ jobs:
       vm_password: {{deploy_vm_password}}
       vm_type_micro: {{deploy_vm_type_micro}}
       vm_type_small: {{deploy_vm_type_small}}
+      disk_type_micro: {{deploy_disk_type_micro}}
+      disk_type_small: {{deploy_disk_type_small}}
       nginx_ip: {{deploy_nginx_ip}}
       pcf_sys_domain: {{pcf_sys_domain}}
       pcf_ert_domain: {{pcf_ert_domain}}
