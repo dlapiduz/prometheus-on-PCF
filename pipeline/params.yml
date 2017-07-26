@@ -25,6 +25,8 @@ deploy_vm_password: #(echo -n 'YOUR_PASSWORD' | mkpasswd --method=sha-512 --pass
 deploy_nginx_ip: 1.1.1.1
 deploy_vm_type_micro: micro
 deploy_vm_type_small: small
+deploy_disk_type_micro: 1024
+deploy_disk_type_small: 51200
 
 pcf_bosh_creds_source: opsman
 deploy_bosh_creds_source: opsman
